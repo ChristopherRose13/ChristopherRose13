@@ -24,7 +24,7 @@
  <a href="https://lighthouse.slack.com/team/U039L2AUWA2" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
  
  
- ![Snake animation](https://github.com/ChristopherRose13/ChristopherRose13/blob/output/github-contribution-grid-snake2.svg)
+ ![Snake animation](https://github.com/ChristopherRose13/ChristopherRose1/blob/output/github-contribution-grid-snake.gif)
 </div>
    
  
